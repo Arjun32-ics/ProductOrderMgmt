@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FunctionApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7186"
+    },
+    "ProductOrderMgmt": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7071 --pause-on-error"
+    }
+  }
+}
